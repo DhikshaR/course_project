@@ -165,6 +165,11 @@ Where possible, group projects will involve working directly with a local busine
 ## Extra Credit
 For groups working with Industry Partners, the extra credit portion of phase 2 is replaced by 3 meetings with industry partners. Working with an industry partner is worth 1.0 extra credit point on your final grade, contingent on 3 successful meetings with your partner.
 
+# Fall 2018 Projects
+------------------------------
+| Group Number | Project Name |
+-------------------------------
+
 
 
 
